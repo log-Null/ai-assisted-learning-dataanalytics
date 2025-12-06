@@ -1,4 +1,4 @@
-# AI-Assisted Learning: Data Analytics with Python  🤖📊📉📚
+# AI-Assisted Learning: Data Analytics with Python  🤖📊📉📚.
 ![Data Analytics in a Server Room](https://github.com/user-attachments/assets/27fb5fc3-c272-439a-8493-638d55c8ca05)
 
 
